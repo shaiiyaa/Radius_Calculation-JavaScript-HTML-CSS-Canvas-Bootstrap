@@ -1,0 +1,1 @@
+This was one of my first exams in my Web Development study. Simple HTML JavaScript page designed with CSS and Bootstrap with a bit of Canvas.
